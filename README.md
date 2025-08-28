@@ -1,6 +1,6 @@
 # Kickstarter landing page
 
-  [Landing page link](https://rhashtag.github.io/Kickstarter_landing_page/)
+  [Landing page link](https://rashaad-ebrahim.github.io/Kickstarter_landing_page/)
 
 
 ## About this project:
